@@ -1,0 +1,34 @@
+{
+    "invalidGiveawaysAmount": {
+        "type": "rich",
+        "title": ":x: Invalid value for amount of giveaways",
+        "description": "Please type a number.",
+        "color": "E22711",
+        "timestamp": true,
+        "author": {
+          "name": "Giveaway Bot",
+          "iconURL": "https://i.ibb.co/5Bwfnqt/be782b9db204121d33042ff5efc6b798.png"
+        }
+    },
+    "invalidUserId": {
+        "type": "rich",
+        "title": ":x: Invalid user ID",
+        "description": "User not found.",
+        "color": "E22711",
+        "timestamp": true,
+        "author": {
+          "name": "Giveaway Bot",
+          "iconURL": "https://i.ibb.co/5Bwfnqt/be782b9db204121d33042ff5efc6b798.png"
+        }
+    },
+    "addedToBlacklist": {
+        "type": "rich",
+        "title": "User added to blacklist",
+        "color": 39423,
+        "timestamp": true,
+        "author": {
+          "name": "Giveaway Bot",
+          "iconURL": "https://i.ibb.co/5Bwfnqt/be782b9db204121d33042ff5efc6b798.png"
+        }
+    }
+}

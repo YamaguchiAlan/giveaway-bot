@@ -1,0 +1,54 @@
+{
+    "missingArguments": {
+        "type": "rich",
+        "title": ":x: Missing Arguments",
+        "color": "E22711",
+        "timestamp": true,
+        "author": {
+          "name": "Giveaway Bot",
+          "iconURL": "https://i.ibb.co/5Bwfnqt/be782b9db204121d33042ff5efc6b798.png"
+        }
+    },
+    "channelNotFound": {
+        "type": "rich",
+        "title": ":x: Channel Not Found.",
+        "color": "E22711",
+        "timestamp": true,
+        "author": {
+          "name": "Giveaway Bot",
+          "iconURL": "https://i.ibb.co/5Bwfnqt/be782b9db204121d33042ff5efc6b798.png"
+        }
+    },
+    "invalidDuration": {
+        "type": "rich",
+        "title": ":x: Invalid Time.",
+        "description": "Please type the amount of miliseconds in number or add 's' at the end of the number for seconds, 'm' for minutes and 'd' for days.",
+        "color": "E22711",
+        "timestamp": true,
+        "author": {
+          "name": "Giveaway Bot",
+          "iconURL": "https://i.ibb.co/5Bwfnqt/be782b9db204121d33042ff5efc6b798.png"
+        }
+    },
+    "invalidWinnersCount": {
+        "type": "rich",
+        "title": ":x: Invalid value for amount of winners",
+        "description": "Please type a number.",
+        "color": "E22711",
+        "timestamp": true,
+        "author": {
+          "name": "Giveaway Bot",
+          "iconURL": "https://i.ibb.co/5Bwfnqt/be782b9db204121d33042ff5efc6b798.png"
+        }
+    },
+    "notTextBased": {
+        "type": "rich",
+        "title": ":x: Selected channel is not text-based.",
+        "color": "E22711",
+        "timestamp": true,
+        "author": {
+          "name": "Giveaway Bot",
+          "iconURL": "https://i.ibb.co/5Bwfnqt/be782b9db204121d33042ff5efc6b798.png"
+        }
+    }
+}

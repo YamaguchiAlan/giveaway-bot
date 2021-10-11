@@ -1,0 +1,7 @@
+{
+    "type": "rich",
+    "title": "Congratulations, {winners}! You won **{prize}**!",
+    "description": "{entrants} entrants. :point_up:",
+    "color": 39423,
+    "timestamp": false
+}

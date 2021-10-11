@@ -1,0 +1,54 @@
+{
+    "unabledToFind": {
+        "type": "rich",
+        "title": ":x: Unable to find a giveaway for ` {prize} `.",
+        "color": "E22711",
+        "timestamp": true,
+        "author": {
+          "name": "Giveaway Bot",
+          "iconURL": "https://i.ibb.co/5Bwfnqt/be782b9db204121d33042ff5efc6b798.png"
+        }
+    },
+    "unexpectedError": {
+        "type": "rich",
+        "title": "{prize}",
+        "color": "E22711",
+        "timestamp": true,
+        "author": {
+          "name": "Giveaway Bot",
+          "iconURL": "https://i.ibb.co/5Bwfnqt/be782b9db204121d33042ff5efc6b798.png"
+        }
+    },
+    "giveawayCanceled": {
+        "type": "rich",
+        "title": "Giveaway Canceled",
+        "color": 39423,
+        "timestamp": true,
+        "author": {
+          "name": "Giveaway Bot",
+          "iconURL": "https://i.ibb.co/5Bwfnqt/be782b9db204121d33042ff5efc6b798.png"
+        }
+    },
+    "roleUnauthorized": {
+        "type": "rich",
+        "title": "Unauthorized Role",
+        "description": ":x: You cant use this command",
+        "color": "E22711",
+        "timestamp": false,
+        "author": {
+          "name": "Giveaway Bot",
+          "iconURL": "https://i.ibb.co/5Bwfnqt/be782b9db204121d33042ff5efc6b798.png"
+        }
+    },
+    "userBlocked": {
+        "type": "rich",
+        "title": "You cannot participate in this giveaway",
+        "description": ":x: You has been blocked from participating in this giveaway",
+        "color": "E22711",
+        "timestamp": false,
+        "author": {
+          "name": "Giveaway Bot",
+          "iconURL": "https://i.ibb.co/5Bwfnqt/be782b9db204121d33042ff5efc6b798.png"
+        }
+    }
+}
