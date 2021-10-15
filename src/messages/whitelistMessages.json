@@ -1,0 +1,75 @@
+{
+  "addedToWhitelist": {
+      "type": "rich",
+      "title": "Role added to whitelist",
+      "color": 39423,
+      "timestamp": true,
+      "footer": {
+        "text": "Giveaways"
+      }
+  },
+  "roleNotAuthorized": {
+      "type": "rich",
+      "title": "Role not authorized to participate.",
+      "color": "E22711",
+      "timestamp": true,
+      "footer": {
+        "text": "Giveaways"
+      }
+  },
+  "emptyRole": {
+    "type": "rich",
+    "title": "Role not provided, type a role name.",
+    "color": "E22711",
+    "timestamp": true,
+    "footer": {
+      "text": "Giveaways"
+    }
+  },
+  "roleNotExists": {
+    "type": "rich",
+    "title": "This role does not exists in the whitelist.",
+    "color": "E22711",
+    "timestamp": true,
+    "footer": {
+      "text": "Giveaways"
+    }
+  },
+  "roleAlreadyExists": {
+    "type": "rich",
+    "title": "This role already exists in the whitelist.",
+    "color": "E22711",
+    "timestamp": true,
+    "footer": {
+      "text": "Giveaways"
+    }
+  },
+  "removedFromWhitelist": {
+    "type": "rich",
+    "title": "Role removed from whitelist.",
+    "color": 39423,
+    "timestamp": true,
+    "footer": {
+      "text": "Giveaways"
+    }
+  },
+  "listWhitelist": {
+    "type": "rich",
+    "title": "Roles in whitelist:",
+    "description": "**{role}**\n",
+    "color": 39423,
+    "timestamp": true,
+    "footer": {
+      "text": "Giveaways"
+    }
+  },
+  "noRolesYet": {
+      "type": "rich",
+      "title": "There are no roles yet.",
+      "color": 39423,
+      "timestamp": true,
+      "footer": {
+        "text": "Giveaways"
+      }
+  }
+}

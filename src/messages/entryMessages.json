@@ -1,0 +1,80 @@
+{
+    "entriesAdded": {
+        "type": "rich",
+        "title": "Entry successfully set for the role in this giveaway!",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+            "text": "Giveaways"
+        }
+    },
+    "entriesRemoved": {
+        "type": "rich",
+        "title": "Entry successfully removed.",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+            "text": "Giveaways"
+        }
+    },
+    "invalidEntriesValue": {
+        "type": "rich",
+        "title": "Invalid value for amount of entries",
+        "description": "Please type a number.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+            "text": "Giveaways"
+        }
+    },
+    "negativeEntries": {
+        "type": "rich",
+        "title": "Invalid value",
+        "description": "Entries can't be a negative number or zero.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+            "text": "Giveaways"
+        }
+    },
+    "entryDoesNotExist": {
+        "type": "rich",
+        "title": "There is no entries for this role.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+            "text": "Giveaways"
+        }
+    },
+    "list": {
+        "type": "rich",
+        "title": "Roles with bonus entries:",
+        "fields": {
+            "name": "{role}",
+            "value": "entries: {entries}"
+        },
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "noEntries": {
+        "type": "rich",
+        "title": "There is no entries in this giveaway.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+            "text": "Giveaways"
+        }
+    },
+    "checkEntriesError": {
+        "type": "rich",
+        "title": "Can't check your entries.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+            "text": "Giveaways"
+        }
+    }
+}

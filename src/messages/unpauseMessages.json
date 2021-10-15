@@ -1,0 +1,20 @@
+{
+    "unpauseMessage": {
+        "type": "rich",
+        "title": "Giveaway {prize} unpaused!",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "notPaused": {
+        "type": "rich",
+        "title": "This giveaway is not paused.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    }
+}

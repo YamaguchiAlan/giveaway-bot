@@ -1,0 +1,98 @@
+{
+    "invalidGiveawaysAmount": {
+        "type": "rich",
+        "title": "Invalid value for amount of giveaways",
+        "description": "Please type a number.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "invalidUserId": {
+        "type": "rich",
+        "title": "Invalid user ID",
+        "description": "User not found.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "addedToBlacklist": {
+        "type": "rich",
+        "title": "User added to blacklist",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "list": {
+        "type": "rich",
+        "title": "Users in blacklist:",
+        "fields": {
+            "name": "{username}",
+            "value": "Remaining: {block}"
+        },
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "emptyBlacklist": {
+      "type": "rich",
+      "title": "The blacklist is empty.",
+      "color": 39423,
+      "timestamp": true,
+      "footer": {
+        "text": "Giveaways"
+      }
+    },
+    "unableToFind": {
+        "type": "rich",
+        "title": "Can't find the user in the blacklist.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "noBlockRemaining": {
+        "type": "rich",
+        "title": "The user has no remaining giveaways block.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "remainingBlockDeleted": {
+      "type": "rich",
+      "title": "User's remaining giveaways block deleted.",
+      "color": 39423,
+      "timestamp": true,
+      "footer": {
+        "text": "Giveaways"
+      }
+    },
+    "giveawayNotFound": {
+      "type": "rich",
+      "title": "Can't find the giveaway in this user's blocked giveaways.",
+      "color": "E22711",
+      "timestamp": true,
+      "footer": {
+        "text": "Giveaways"
+      }
+    },
+    "giveawayRemoved": {
+      "type": "rich",
+      "title": "Giveaway removed from this user's blocked giveaways.",
+      "color": 39423,
+      "timestamp": true,
+      "footer": {
+        "text": "Giveaways"
+      }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "notEndedYet": {
+        "type": "rich",
+        "title": "The giveaway is not ended yet.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "reroll": {
+        "type": "rich",
+        "title": "Giveaway {prize} rerolled!",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "congrat": {
+        "type": "rich",
+        "title": "",
+        "description": ":tada: New winner(s): {winners}! Congratulations, you won **{this.prize}**!",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "error": {
+        "type": "rich",
+        "title": "No valid participations, no new winner(s) can be chosen!",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    }
+}

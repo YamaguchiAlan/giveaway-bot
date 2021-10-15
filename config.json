@@ -2,6 +2,9 @@
     "everyoneMention": true,
     "hostedBy": true,
     "prefix": "g.",
-    "emoji": "🎉",
+    "reaction": "🎉",
+    "botsCanWin": false,
+    "giveawayEmbedColor": "#FF0000",
+    "giveawayEmbedColorEnd": "#000000",
     "roles": ["Giveaway", "admin"]
 }

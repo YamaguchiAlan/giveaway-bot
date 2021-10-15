@@ -1,0 +1,130 @@
+{
+    "noTemplateName": {
+        "type": "rich",
+        "title": "You didn't provided a template name.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "created": {
+        "type": "rich",
+        "title": "Giveaway template created successfully!",
+        "color": 39423,
+        "timestamp": true
+    },
+    "edited": {
+        "type": "rich",
+        "title": "Giveaway template edited successfully!",
+        "color": 39423,
+        "timestamp": true
+    },
+    "removed": {
+        "type": "rich",
+        "title": "Giveaway template removed successfully!",
+        "color": 39423,
+        "timestamp": true
+    },
+    "templateNotFound": {
+        "type": "rich",
+        "title": "Unable to find a template with that name.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "templateAlreadyExists": {
+        "type": "rich",
+        "title": "There's already a template with that name in this server!",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "channelMising": {
+        "type": "rich",
+        "title": "That giveaway template doesn't have a channel by default so you have to either provide it in this command using the options: `--channel` or `-c` or you have to edit that template.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "durationMising": {
+        "type": "rich",
+        "title": "That giveaway template doesn't have a duration by default so you have to either provide it in this command using the options: `--duration` or `-d` or you have to edit that template.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "nameMising": {
+        "type": "rich",
+        "title": "That giveaway template doesn't have a name by default so you have to either provide it in this command using the options: `--name` or `-n` or you have to edit that template.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "winnersMising": {
+        "type": "rich",
+        "title": "That giveaway template doesn't have a amount of winners by default so you have to either provide it in this command using the options: `--winners` or `-w` or you have to edit that template.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "noOptionsCreate": {
+        "type": "rich",
+        "title": "You must use at least 1 option to create a Giveaway Template!.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "noOptionsEdit": {
+        "type": "rich",
+        "title": "You must use at least 1 option to edit a Giveaway Template!.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "list": {
+        "type": "rich",
+        "title": "Giveaways templates:",
+        "description": "**{templateName}**\n",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "noTemplatesYet": {
+        "type": "rich",
+        "title": "There are no giveaway templates yet.",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "viewTemplate": {
+        "type": "rich",
+        "title": "Template Info",
+        "description": "**Template Name:** {templateName}\n\n**Channel:** {channel}\n**Duration:** {duration}\n**Number of Winners:** {winners}\n**Prize:** {prize}\n\n**Whitelist Role:** {role}",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    }
+}

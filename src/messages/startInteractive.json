@@ -1,0 +1,39 @@
+{
+    "askChannel": {
+        "type": "rich",
+        "title": "Which channel you want the giveaway to be in?",
+        "description": "Type channel name, link channel `#channel`, or `here`",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+            "text": "Type `cancel` anytime to stop the process"
+        }
+    },
+    "askDuration": {
+        "type": "rich",
+        "title": "Ok giveaway in `{channelName}`, How long do you want the giveaway to run?",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+            "text": "Type `cancel` anytime to stop the process"
+        }
+    },
+    "askWinnerCount": {
+        "type": "rich",
+        "title": "`{duration}`, How many winners should be there for this giveaway?",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+            "text": "Type `cancel` anytime to stop the process"
+        }
+    },
+    "askPrize": {
+        "type": "rich",
+        "title": "`{winnerCount} winners in {channelName} for {duration}`, what you want to giveaway?",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+            "text": "Type `cancel` anytime to stop the process"
+        }
+    }
+}

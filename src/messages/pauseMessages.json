@@ -1,0 +1,20 @@
+{
+    "pauseMessage": {
+        "type": "rich",
+        "title": "Giveaway {prize} Paused!",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "alreadyPaused": {
+        "type": "rich",
+        "title": "This giveaway is already paused.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "endMessage": {
+        "type": "rich",
+        "title": "Giveaway {prize} ended!",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "alreadyEnded": {
+        "type": "rich",
+        "title": "This giveaway is already ended.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "unpauseBeforeEnd": {
+        "type": "rich",
+        "title": "This giveaway is paused, unpause it before ended it.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "unabledToFind": {
+        "type": "rich",
+        "title": "Unable to find a giveaway for ` {prize} `.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "unexpectedError": {
+        "type": "rich",
+        "title": "{prize}",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "giveawayCanceled": {
+        "type": "rich",
+        "title": "Giveaway Canceled",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "roleUnauthorized": {
+        "type": "rich",
+        "title": "Unauthorized Role",
+        "description": "You cant use this command",
+        "color": "E22711",
+        "timestamp": false,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "userBlocked": {
+        "type": "rich",
+        "title": "You cannot participate in this giveaway",
+        "description": "You has been blocked from participating in this giveaway",
+        "color": "E22711",
+        "timestamp": false,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "deleteGiveaway": {
+      "type": "rich",
+      "title": "Giveaway {prize} deleted.",
+      "color": "F0E804",
+      "timestamp": true,
+      "footer": {
+        "text": "Giveaways"
+      }
+    },
+    "noValidName": {
+      "type": "rich",
+      "title": "Can't find a giveaway with that name.",
+      "color": "E22711",
+      "timestamp": true,
+      "footer": {
+        "text": "Giveaways"
+      }
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "giveawayEdited": {
+        "type": "rich",
+        "title": "Giveaway edited successfully.",
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    }
+}

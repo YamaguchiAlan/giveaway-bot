@@ -1,0 +1,46 @@
+{
+    "list": {
+        "type": "rich",
+        "title": "Active Giveaways",
+        "fields": {
+            "name": "{prize}",
+            "value": "end: {endAt}"
+        },
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "listAll": {
+        "type": "rich",
+        "title": "Giveaways",
+        "fields": {
+            "name": "{prize}",
+            "value": "end: {endAt}"
+        },
+        "color": 39423,
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "noActiveGiveaways": {
+        "type": "rich",
+        "title": "No active giveaways on this server, if you want to see a list of all previous giveaways, type `g.list all`",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "noGiveaways": {
+        "type": "rich",
+        "title": "There is no giveaways in this server.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    }
+}

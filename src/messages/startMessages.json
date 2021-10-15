@@ -1,0 +1,49 @@
+{
+    "missingArguments": {
+        "type": "rich",
+        "title": "Missing Arguments",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "channelNotFound": {
+        "type": "rich",
+        "title": "Channel Not Found.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "invalidDuration": {
+        "type": "rich",
+        "title": "Invalid Time.",
+        "description": "Please type the amount of miliseconds in number or add 's' at the end of the number for seconds, 'm' for minutes and 'd' for days.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "invalidWinnersCount": {
+        "type": "rich",
+        "title": "Invalid value for amount of winners",
+        "description": "Please type a number.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    },
+    "notTextBased": {
+        "type": "rich",
+        "title": "Selected channel is not text-based.",
+        "color": "E22711",
+        "timestamp": true,
+        "footer": {
+          "text": "Giveaways"
+        }
+    }
+}
